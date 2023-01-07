@@ -1,0 +1,5 @@
+# Bot config file
+config.yaml
+
+# Bot log file directory
+log/

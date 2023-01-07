@@ -1,0 +1,63 @@
+# Configuration file for discord_log_bot
+
+# [REQUIRED] Discord bot API token
+bot_api_token: "MTA2MTIxNzcxMTIzMDgxMjIxMA.GnmlnA.m7B1AbZCGKaTKVhI5JEo8OR2aABvYfc3i74oSk"
+
+# Discord server channel to send log messages
+log_channel: "<LOG CHANNEL ID HERE>"
+
+# Whether to log events locally in CSV files under log/
+log_local: true
+
+# Log server channel creation/deletion
+log_server_channel_change: true
+
+# Log server role creation/deletion
+log_server_role_change: true
+
+# Log user ban/unban actions
+log_user_ban_unban: true
+
+# Log user join/leave actions
+log_user_join_leave: true
+
+# Log user kick actions
+log_user_kick: true
+
+# Log user message delete actions
+log_user_message_delete: true
+
+# Log user message edit actions
+log_user_message_edit: true
+
+# Log user nickname change actions
+log_user_nickname_change: true
+
+# Log user ping actions
+log_user_ping: true
+
+# Log user reaction add/remove actions
+log_user_reaction: true
+
+# Log user role gain/loss actions
+log_user_role_change: true
+
+# Log user string send actions
+log_user_string_send: true
+
+# Log user thread create/delete actions
+log_user_thread: true
+
+# Log user voice activity in voice channels
+log_user_voice_activity: true
+
+# Log user voice channel join/leave actions
+log_user_voice_channel: true
+
+# Log user server voice mute/unmute actions
+log_user_server_mute: true
+
+# Log user server voice deafen/undeafen actions
+log_user_server_deafen: true
+
+
